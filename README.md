@@ -14,3 +14,6 @@ go run run.go
 ## client
 go run client_sproxy.go
 
+## TODO
+1.add timeout
+2.memory leak debug
